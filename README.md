@@ -40,6 +40,11 @@ Bij de volgende scenario's is er geen refund mogelijk: - Wanneer een persoon wor
 
 Een stafflid mag alleen een refund goedkeuren indien het eigen perspectief gebruikt wordt. Het perspectief van een ander is niet toegestaan.
 Regels
+
+
+
+
+
 Artikel 1: Cheats (Straf-categorie: 9)
 Het gebruik maken van software/hulpmiddelen van derde partijen om een voordeel in het spel te krijgen, denk aan (combatpacks, (extern) crosshair) is niet toegestaan.
 Onder cheats vallen externe programma’s, zoals hack clients (Eulen, Kekhack, etc).
@@ -57,6 +62,7 @@ De bug ‘one punch’ zal bestraft worden met een straf uit de 5de categorie. �
 Artikel 2A: IRL Trade (categorie 9)
 Het verhandelen van items, valuta, diensten en/of accounts voor echt geld is verboden.
 
+
 Artikel 3: Alt Characters (Straf-categorie: 9)
 Onder een alt character wordt verstaan dat een persoon meerdere accounts aanmaakt om binnen de stad Zuiderstad Roleplay te spelen.
 Het is verboden om een alt account aan te maken om vervolgens het banksaldo van dit account te overhandigen aan een speler, op welke manier dan ook.
@@ -66,9 +72,11 @@ Artikel 3A: Startersgeld (categorie 9)
 Het is niet toegestaan startersgeld aan anderen te geven zonder enige bedoeling zelf te gaan spelen.
 Het is niet toegestaan om de speeltijd zonder enige doel af te wachten en dan als nog geld over te maken zonder doel te hebben langer te gaan spelen.
 
+
 Artikel 4: Bedreigen / intimideren (Straf-categorie: 9)
 Het is ten strengste verboden om een burger en/of stafflid te bedreigen of te intimideren met een DDOS aanval.
 Het ‘doxen’ of 'ddossen' van burgers en/of staff leden is verboden.
+ 
  
 Artikel 5: Fail RP (Straf-categorie: 1)
 Onder fail roleplay vallen alle facetten die als een onrealistische situatie kunnen worden ervaren. Eenieder dient zich tijdens het roleplayen het volgende af te vragen: "Zou dit in het echt ook op deze manier kunnen gebeuren".
@@ -86,6 +94,7 @@ Artikel 6: Earrape (Straf-categorie: 1)
 Hieronder wordt verstaan een persoon die met zijn microfoon/soundpad dusdanig onnodig veel lawaai maakt, dat het niet normaal te verdragen is voor andere burgers.
 Een voorbeeld wat onder earrape valt is bijvoorbeeld het schreeuwen en/of het maken van harde geluiden in de microfoon, waarbij andere last ervaren.
 
+
 Artikel 7: VDM (Straf-categorie: 3)
 Hieronder wordt verstaan een persoon die opzettelijk inrijdt op een burger met de intentie om de burger te vermoorden of als doel heeft het voertuig als wapen te gebruiken.
 Een stafflid kan de keuze maken om afhankelijk van de mate van VDM af te wijken om een hogere straf op te leggen.
@@ -102,6 +111,7 @@ Het misbruiken/onnodig gebruiken van een soundpad is niet toegestaan. Voor het g
 In de onderwereld kun je voor de volgende scenario's een voice changer gebruiken: * Bij een drugsdeal; * Bij een wapendeal; * Bij het rippen; * Bij overvallen.
 Speciale eenheden van de landelijke politie / marechaussee mogen gebruik maken van een voice changer.
  
+ 
 Artikel 8: RDM (Straf-categorie: 3)
 Onder RDM wordt verstaan het willekeurig vermoorden van spelers zonder enige geldige reden. Geen geldige reden kan zijn: * Elkaar een uit maken voor iets zoals sukkel, eikel, jij bent lelijk etc; * Iemand rijd perongeluk tegen je aan;
 Het uitdagen via twitter kan gezien worden als een geldige reden, mits hier bewijsmaterialen van zijn dat het om deze persoon gaat. Twitter media mag je in de stad gebruiken als informatie. Het korps staat in hun recht om de informatie te verwerken.
@@ -111,7 +121,7 @@ Het verbaal provoceren richting andere spelers is op eigen risico.
 Een stafflid staat altijd in het recht om een zwaardere straf op te leggen, afhankelijk van de mate van RDM en de historie van RDM’s.
 Bij een 2e keer zal overgegaan worden op categorie 4 + wapen inleveren. Huidige RDM bans blijven bestaan en worden niet weggehaald bij het doorvoeren van de APV.
  
-[ZVRP] ZenTexc — 30/03/2023 23:09
+ 
 Artikel 9: Metagamen (Straf-categorie: 3)
 Informatie verkregen buiten het karakter om (alle informatie die niet verkregen is door jouw karakter binnen (Helmond) mag niet gebruikt worden door het karakter, denk daarbij aan info die je via discord verkregen heb, buiten de daarvoor bestemde kanalen.
 Wanneer je in Helmond bent is het verboden om te screen sharen.
@@ -143,6 +153,7 @@ Het rammen/onnodig beuken van andere voertuigen zonder reden.
 Het gebruik maken van obstakels om zo ergens overheen te jumpen of te komen met je voer/vaar tuig.
 Wanneer je een of meerdere lekke banden hebt, mag je niet harder dan 130 km/h rijden.
 
+
 Artikel 12: Illegale activiteiten via twitter (Straf-categorie: 1)
 Het opzetten en/of uitvoeren van criminele activiteiten via Twitter is niet toegestaan.
 Voorbeeld hiervan zijn:
@@ -154,41 +165,35 @@ Onder illegale activiteiten valt het vragen van aanwezigheid van gangs in twitte
 Het is niet toegestaan om vervormingen/synoniemen te gebruiken in Twitter om illegale activiteiten te triggeren. Hierbij kun je bijvoorbeeld denken aan woorden zoals sokken wassen, honkbalspullen, poedersuiker en zakjes snoep.
 Het is verboden om ingame een reactie te geven op bans/warns die in twitter te zien zijn.
  
-[ZVRP] ZenTexc — 30/03/2023 23:16
+
 Artikel 13: Overheidskleding dragen (Straf-categorie: 1)
 Jezelf voordoen als overheidspersoneel is niet toegestaan.
 Het dragen van kogelwerende vesten met een politie/kmar livery is niet toegestaan.
 Het dragen van ANWB en/of Ambulance kleding en/of accessoires, zoals tassen is niet toegestaan.
+
 
 Artikel 14: Schelden/beledigen van spelers of staff leden (Straf-categorie: 5)
 Het uitschelden van spelers is niet toegestaan. Hieronder valt het schelden met bekende, hedendaagse ziektes.
 Seksuele uitingen of beledigingen van vrouwen wordt bestraft met een straf uit de 5de categorie.
 Het uitschelden van burgers met racistische opmerkingen wordt bestraft met een straf uit de 6de categorie.
 
+
 Artikel 15: Schelden/beledigen van spelers of staff leden (Straf-categorie: 5)
 Het uitschelden van spelers is niet toegestaan. Hieronder valt het schelden met bekende, hedendaagse ziektes.
 Seksuele uitingen of beledigingen van vrouwen wordt bestraft met een straf uit de 5de categorie.
 Het uitschelden van burgers met racistische opmerkingen wordt bestraft met een straf uit de 6de categorie.
 
+
 Artikel 16: Het dragen van de standaard outfit (Straf-categorie:1)
 Het dragen van de standaard outfit (zwart-wit geblokt) is niet toegestaan. Je dient een volledige outfit te maken, waarbij je armen en benen zichtbaar zijn en de kleding goed aansluit.
 Het is je eigen verantwoordelijkheid op bij constatering van bijvoorbeeld het hebben van geen armen andere kleding aan te schaffen zodat dit probleem wordt verholpen.
+ 
  
 Artikel 17: Combatloggen (Straf-categorie: 4)
 Het is verboden om tijdens een scenario het spel af te sluiten en of te verlaten. Wanneer dit gebeurt heb je 5 minuten om terug te keren naar het scenario. Wanneer men in een scenario zit dient men het scenario af te maken.
 Indien echt niet anders kan, en persoon moet echt vertrekken, moet dit overlegd worden met de betrokkenen in dit scenario.
 Het verlaten van de stad, nadat je karakter overleden is wordt gezien als combatloggen.
 
-Artikel 18: Stream sniping (Straf-categorie: 3)
-Het gebruiken van informatie vanuit streamers/content creators wordt gezien als stream sniping.
-Artikel 16: Het dragen van de standaard outfit (Straf-categorie:1)
-Het dragen van de standaard outfit (zwart-wit geblokt) is niet toegestaan. Je dient een volledige outfit te maken, waarbij je armen en benen zichtbaar zijn en de kleding goed aansluit.
-Het is je eigen verantwoordelijkheid op bij constatering van bijvoorbeeld het hebben van geen armen andere kleding aan te schaffen zodat dit probleem wordt verholpen.
-
-Artikel 17: Combatloggen (Straf-categorie: 4)
-Het is verboden om tijdens een scenario het spel af te sluiten en of te verlaten. Wanneer dit gebeurt heb je 5 minuten om terug te keren naar het scenario. Wanneer men in een scenario zit dient men het scenario af te maken.
-Indien echt niet anders kan, en persoon moet echt vertrekken, moet dit overlegd worden met de betrokkenen in dit scenario.
-Het verlaten van de stad, nadat je karakter overleden is wordt gezien als combatloggen.
 
 Artikel 18: Stream sniping (Straf-categorie: 3)
 Het gebruiken van informatie vanuit streamers/content creators wordt gezien als stream sniping.
@@ -221,6 +226,8 @@ Het is niet toegestaan om voertuigen bij illegale deals te betrekken. Alle onder
 Met betrekking tot de volgende punten is het niet toegestaan om burgers te overvallen of op te lichten:
 Voertuigen (ook niet iemand dwingen zijn auto sleutel aan jou te geven);
 Onder dwang iemand zijn huis binnen treden en alles leegroven. Wanneer een speler zelf de keuze maakt om iemand binnen te laten valt dit onder je eigen verantwoordelijkheid.
+
+
 Artikel 25: Oplichten en scammen (Straf-categorie: 1)
 Het is niet toegestaan om te scammen met voertuigen.
 Het beroven en oplichten van spelers is toegestaan bij een aantal van 2 politieagenten of Kmar.
@@ -228,6 +235,7 @@ Op een bovenwereld gerelateerde scam zit een limiet van €30.000.
 Wanneer je een voertuig koopt, ben je zelf verantwoordelijk om te controleren of de aangeboden upgrades van toepassing zijn bij het uitwisselen van het geldbedrag en de auto, dit zal via een request uitgevoerd gaan worden.
 Het uitlenen van bezittingen is op eigen risico. Hier refunden we niet voor (er vindt ook geen refund/transfer plaats, wanneer iemand gebanned is.)
 Na het oplichten is het niet toegestaan om de desbetreffende burger te vermoorden.
+
 
 Artikel 26: Overvallen op winkels en banken (Straf-categorie: 2)
 Er is geen maximum aan overvallers in een kleine bank, grote bank, juwelier of winkel.
@@ -246,7 +254,8 @@ Maximale outside shooters:
 4 grote bank 
 
 Outside hostages zijn niet toegestaan.
-[ZVRP] ZenTexc — 30/03/2023 23:24
+
+
 Artikel 27: Onderwereld Spelers (Straf-categorie: 3)
 Het is niet toegestaan om op dezelfde locatie (reikwijdte van 500 meter) te rippen binnen een tijdspanne van 30 minuten.
 Dood is dood, dit houdt in als je dood bent gegaan dat je niet meer mee kunt doen met een wraakactie. Daarbij is het ook niet toegestaan om inlichtingen van de persoon in kwestie te verstrekken. Je mag de gehele wraakactie en de dagen erna niet meedoen. Dit geldt voor gangwars en hunt-sessies.
@@ -276,15 +285,18 @@ Het ontvoeren van burgers is toegestaan vanaf minimaal 2 politie/kmar in dienst.
 Een agent mag pas ontvoerd worden vanaf 4 agenten. Er moeten dus altijd 3 andere agenten in dienst zijn voordat je 1 agent mag ontvoeren.
 Een persoon mag je maximaal 90 minuten ontvoeren.
 
+
 Artikel 28: Maximaal toegestaan aantal leden criminele organisaties
 Het aantal toegestane leden in een criminele organisatie is 20 leden.
 Bovenstaand geldt voor erkende gangs en niet erkende gangs.
 Het verbreken van bovenstaand artikel zal leiden tot een gang waarschuwing voor de betreffende gang.
  
+ 
 Artikel 29: Fouilleren (Straf-categorie 1)
 Je kunt alleen iemand fouilleren wanneer je in bezit bent van een wapen.
 Bij het innemen van wapens dien je het wapen visueel gezien te hebben of als de persoon een masker, holster of kogelvrij vest draagt, dit wordt anders volgens categorie 2 gestraft.
 Je mag geen kennis hebben van de illegale spullen die de persoon op zak heeft wanneer de persoon geen masker, holster of kogelvrij vest aan heeft.
+
 
 Artikel 30: Ambulance (Straf-categorie: 2)
 Het is niet toegestaan om een ambulancemedewerker te vermoorden, te beledigen of niet mee te werken met de roleplay van een ambulancier. De ambulance dient hier geen gebruik van te maken door bepaald ongepast gedrag te vertonen.
@@ -298,18 +310,22 @@ Mocht je iets zien bij een andere streamer wat je niet bevalt. Spreek dan een st
 FailRP, RDM, VDM en dat soort zaken on-stream wordt direct bestraft.
 De naam Zuiderstad moet in de titel van de stream staan zodat het ook door ons gevonden kan worden.
  
+ 
 Artikel 32: Erotische roleplay (Straf-categorie: 5)
 Het is niet toegestaan om roleplay volgens artikel 40 uit te voeren.
 Een stafflid kan een uitzondering maken in een situatie, zoals het dansen in een stripclub.
 Houd je hier niet aan? Dan zal er een straf volgen uit de 5de categorie.
 
+
 Artikel 33: Voordoen als overheidsmedewerker (Straf-categorie: 1)
 Het is niet toegestaan om je voor te doen als een overheidsmedewerker met/zonder de kleding.
 Het is niet toegestaan om de body armor of tas van de DSI te dragen als kleding.
 
+
 Artikel 34: AFK kick voorkomen (straf-categorie: 3)
 Het is niet toegestaan om de automatisch kick te omzeilen.
 Het is niet toegestaan om te ghosten bij een bovenwereldse baan om het loon te verkrijgen.
+
 
 Artikel 35: Algemene regels hulpdiensten
 Het agressief benaderen van Politie, Ambulance, Taxi en ANWB is niet toegestaan. Blijf te allen tijde vriendelijk.
@@ -321,7 +337,7 @@ Het in dienst gaan zonder de correcte dienstkleding is ten strengste verboden.
 Het is niet toegestaan om als hulpdienst criminele activiteiten uit te voeren, zowel in als uit dienst niet.
 Het onnodig veel boetes geven aan personen die zich niet aan de regels houden is niet de bedoeling, maak in dat geval een report of ticket aan.
  
-[ZVRP] ZenTexc — 30/03/2023 23:33
+
 Artikel 36: Rippen eiland (Straf-categorie: 2)
 Op het eiland mag je 75 zakjes per persoon rippen. De regel op het vaste land blijft staan op het rippen van 20 zakjes.
 Na het rippen mag je niet binnen 60 minuten (1uur) de zelfde persoon nogmaals rippen
@@ -333,11 +349,13 @@ Artikel 36.A: RDM eiland (Straf-categorie: 1, afhankelijk aantal bans)
 RDM regel iedereen die op het eiland komt en die geen zaken bij jou doet wegsturen. Indien de persoon in kwestie niet vertrekt sta je in je recht om de persoon te doden.
 Mensen met wapens in de hand mag je direct doodschieten.
 
+
 Artikel 37: KMAR/politie eiland (Straf-categorie: 2)
 Het is verboden om vanaf het eiland op de patrouillerende schepen of heli’s van de KMAR te schieten.
 Het is toegestaan om op binnenkomende schepen en boten te schieten die gang/burger gerelateerd zijn.
 De DSI mag speciale operaties uitvoeren op het eiland.
 Indien je agenten meeneemt naar het eiland, geldt bovenstaande regel niet. Dan staat de KMAR in hun recht om actie te ondernemen.
+
 
 Artikel 38: (Straf-categorie: 2 voor alle betrokkene)
 Op het eiland mogen gangs onderling niet samenwerken, om groepen van 30 tegen 30 te voorkomen.
@@ -346,6 +364,7 @@ Het vermoorden van burgers op het eiland met de reden 'dat ze geen zaken bij jou
 Het wegsturen van rivaliserende groeperingen is toegestaan op het eiland, mits ze niet weggaan binnen 5 minuten sta je in je recht om ze te vermoorden.
 Artikel 39: haat veroorzakend gedrag in discord (straf categorie: 1)
 Het toxic reageren op algemene zaken naar de bovenwereld of onderwereld wordt niet meer getolereerd. Discussies voeren mag, maar voorlopig vindt er meer > vervelend gedrag naar elkaar.
+
 
 Artikel 39.A: haat veroorzakend gedrag in discord (straf categorie: 1)
 Indien je het niet eens bent met een verkregen straf is het onnodig om in de algemene discord het stafflid belachelijk te maken of een discussie erover te beginnen. > Hier hebben we ons ticketsysteem voor.
